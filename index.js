@@ -25,9 +25,3 @@ export class LanguageSet {
     static IT = 'it-IT';
     static EN = 'en-EN';
 }
-
-
-module.exports = {
-    LanguageSet,
-    generateWeirdAnimal
-};
