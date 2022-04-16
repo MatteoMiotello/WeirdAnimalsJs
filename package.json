@@ -1,6 +1,6 @@
 {
   "name": "weirdanimalsjs",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "js framework that generates random animals with an adjective",
   "main": "index.js",
   "type": "module",
