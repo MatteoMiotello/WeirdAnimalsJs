@@ -19,6 +19,12 @@
     "random",
     "words"
   ],
+  "files": [
+    "index.js",
+    "library/LanguagesSet.js",
+    "languages/it-IT.js",
+    "languages/en-EN.js"
+  ],
   "author": "Matteo Miotello",
   "license": "MIT",
   "bugs": {
