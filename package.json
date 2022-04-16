@@ -4,6 +4,9 @@
   "description": "js framework that generates random animals with an adjective",
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "test": ""
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/MatteoMiotello/WeirdAnimalsJs.git"
