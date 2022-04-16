@@ -6,7 +6,7 @@ function randomNum(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
 
-module.exports = function ( languageSet = EN ) {
+export function generateWeirdAnimal( languageSet ) {
     let languages = null;
     switch (languageSet) {
         case IT:
@@ -21,3 +21,5 @@ module.exports = function ( languageSet = EN ) {
 
     return languages.firstWord[ randomNum( 0, languages.firstWord.length ) ] + ' ' + languages.secondWord[ randomNum( 0, languages.secondWord.length ) ];
 }
+
+module.exports = generateWeirdAnimal;
