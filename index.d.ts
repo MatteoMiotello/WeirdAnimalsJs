@@ -1,3 +1,10 @@
 export = generateWeirdAnimal;
 
-declare function generateWeirdAnimal( language: string ): string;
+declare function generateWeirdAnimal( language: WeirdAnimals.LanguageSet ): string;
+
+declare namespace WeirdAnimals {
+    export enum LanguageSet {
+        IT = 'it-IT',
+        EN = 'en-EN',
+    }
+}
