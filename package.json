@@ -25,6 +25,9 @@
     "languages/it-IT.js",
     "languages/en-EN.js"
   ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
   "author": "Matteo Miotello",
   "license": "MIT",
   "bugs": {
