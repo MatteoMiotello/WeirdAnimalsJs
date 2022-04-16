@@ -1,0 +1,25 @@
+{
+  "name": "weirdanimalsjs",
+  "version": "1.0.0",
+  "description": "js framework that generates random animals with an adjective",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MatteoMiotello/WeirdAnimalsJs.git"
+  },
+  "keywords": [
+    "Javascript",
+    "js",
+    "framework",
+    "animals",
+    "random",
+    "words"
+  ],
+  "author": "Matteo Miotello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatteoMiotello/WeirdAnimalsJs/issues"
+  },
+  "homepage": "https://github.com/MatteoMiotello/WeirdAnimalsJs#readme"
+}
