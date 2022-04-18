@@ -1,4 +1,4 @@
-export class enEN {
+module.exports = class Language {
     firstWord = [
         "Handsome",
         "Ancient",

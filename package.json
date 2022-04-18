@@ -3,7 +3,6 @@
   "version": "1.0.10",
   "description": "js framework that generates random animals with an adjective",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": ""
   },

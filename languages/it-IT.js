@@ -1,4 +1,4 @@
-export class itIT {
+module.exports = class Language {
     firstWord = [
         "Cane",
         "Gatto",
