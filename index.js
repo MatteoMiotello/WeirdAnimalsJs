@@ -16,5 +16,3 @@ module.exports = {
     generateWeirdAnimal,
     LanguageSet
 }
-
-console.log(  generateWeirdAnimal( LanguageSet.IT ))
